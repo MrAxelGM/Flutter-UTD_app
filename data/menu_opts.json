@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Escuela UTD",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "calificaciones",
+            "texto": "Calificacion Alumno"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "actividades_re",
+            "texto": "Actividades Recreativas"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "galeria",
+            "texto": "Galeria Imagenes"
+        },
+        {
+            "ruta" : "list",
+            "icon" : "eventos",
+            "texto": "Eventos de la Escuela"
+        },
+        {
+            "ruta" : "exit",
+            "icon" : "salir",
+            "texto": "Salir"
+        }
+    ]
+}
